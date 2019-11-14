@@ -1,5 +1,5 @@
 
-Data from: Male-male interactions drives the evolution of conspicuous male colouration in a non-territorial mating system 
+Data from: Male-male interactions drives the evolution of conspicuous male colouration in damselflies
 Authors: Md Kawsar Khan, Marie E. Herberstein. 
 
 
